@@ -15,7 +15,7 @@ Diseño y estructuración de planos listos para construcción en arquitecturas d
 <img width="4382" height="3234" alt="Schaumburg 1 05-B CD 041426_pages-to-jpg-0027" src="https://github.com/user-attachments/assets/181bf53d-600a-43bc-9b67-abab77139dc2" />
 
 
-* **Herramientas:** AutoCAD / ArcGIS Pro.
+* **Herramientas:** ArcGIS Pro.
 * **Métricas Clave:** Simulación y enrutamiento cubriendo entre 60,000 y 80,000 pies de LLD mensuales con un estricto cumplimiento normativo de infraestructuras en vías públicas.
 
 ---
