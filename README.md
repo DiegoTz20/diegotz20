@@ -3,7 +3,7 @@
 Soy Tecnólogo en Dibujo Arquitectónico y de Ingeniería, con enfoque profesional en la planificación, diseño y despliegue de infraestructura de fibra óptica y redes de planta externa (OSP)
 
 ## 🚀 Perfil Profesional / Professional Summary
-* **Diseño FTTH / OSP: Experiencia sólida en Low Level Design (LLD), enrutamiento óptico y desarrollo de planos de construcción (CD Sets) bajo normativas internacionales.
+* **Diseño FTTH / OSP:** Experiencia sólida en Low Level Design (LLD), enrutamiento óptico y desarrollo de planos de construcción (CD Sets) bajo normativas internacionales.
 * **Entornos Técnicos:** Dominio avanzado en ArcGIS Pro, AutoCAD (2D/3D), Revit y ETABS.
 * **Garantía de Calidad:** Historial comprobable con tasas del 95% de aprobación en primeras entregas de planos listos para construcción.
 
